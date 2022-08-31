@@ -1,2 +1,0 @@
-# Xmrig
-Xmrig
