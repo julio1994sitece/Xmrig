@@ -1,0 +1,2 @@
+# Xmrig
+Xmrig
